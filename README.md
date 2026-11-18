@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nivon.online">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Founder+%40+Nivon+Tech+Studio;Building+SaaS+products+end-to-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Founder+%40+Nivon+Tech+Studio;End-to-end+IT+services+%26+solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,9 +18,15 @@
 
 I'm a full-stack developer based in **Pune, India** 📍 and the founder of **[Nivon Tech Studio](https://nivon.online)**.
 
-I build multi-tenant SaaS products end to end — APIs, admin back-offices, mobile apps and marketing sites — on a TypeScript monorepo stack.
+At Nivon Tech Studio we deliver **complete IT services** for businesses — from idea to launch and beyond:
 
-- 🔭 Building a family of **Nivon** SaaS products for fitness, housing, PG/hostels, garages and NGOs
+- 🌐 **Websites & web apps** — business websites, portals, e-commerce and custom web applications
+- 📱 **Mobile apps** — Android, iOS and PWA apps
+- 🏢 **Custom business software** — HRMS, CRM, ERP, factory and inventory management
+- ☁️ **SaaS products** — multi-tenant platforms built and run end to end
+- 🎨 **UI/UX design**, 🚀 **cloud deployment & DevOps**, 🔍 **SEO** and 🛠️ **ongoing support & maintenance**
+
+- 🔭 Building SaaS products for fitness, housing societies, PG/hostels, garages and NGOs
 - 🏢 Delivering custom platforms for businesses: HRMS, CRM + work tracking, factory management
 - 🌱 Exploring AI-powered products, background job pipelines and monorepo tooling
 - 💬 Ask me about React, TypeScript, NestJS, React Query and full-stack architecture
@@ -41,8 +47,8 @@ I build multi-tenant SaaS products end to end — APIs, admin back-offices, mobi
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🏘️ Nivon Housing</h3>
-      Housing society platform — residents, visitors, maintenance billing and notices, with phone-OTP login for residents.
+      <h3>🏘️ Excellaa Connect</h3>
+      Housing society platform built for Excellaa Realty — residents, visitors, maintenance billing and notices, with phone-OTP login for residents.
       <br /><br />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -67,7 +73,7 @@ I build multi-tenant SaaS products end to end — APIs, admin back-offices, mobi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 Nivon Impact</h3>
+      <h3>🤝 Hum Hain</h3>
       Multi-tenant NGO marketplace — connecting NGOs, donors and volunteers on one platform.
     </td>
     <td width="50%" valign="top">
