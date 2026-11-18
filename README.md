@@ -112,7 +112,6 @@ At Nivon Tech Studio we deliver **complete IT services** for businesses — from
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akashchavan7&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashchavan7&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
